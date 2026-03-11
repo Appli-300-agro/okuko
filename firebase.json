@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "okuko",
+    "site": "okuko-epf68",
     "public": "dist",
     "ignore": [
       "firebase.json",
